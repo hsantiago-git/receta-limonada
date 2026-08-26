@@ -13,3 +13,6 @@
 ##variacion
 -Menta: 6 hojas
 -Machacarlas ligeramente antes de servir.
+
+##servir
+-hielo: 6 cubos
